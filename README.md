@@ -15,6 +15,8 @@ Main Changes
 Jquery on google CDN.
 Removed unsused code for dishwasher
 added train times from natioanl rail.
+weather icons on CDN 
+No cache of page.
 ```
 
 
