@@ -13,17 +13,17 @@ Main Changes
 ----
 ```
 Jquery on google CDN.
+Weather icons on CDN.
+JS updated to show icons for weather with CDN.
 Removed unsused code for dishwasher
-added train times from natioanl rail.
-weather icons on CDN 
+Added train times from National Rail.
 No cache of page.
 ```
 
 
-----
+
 To Do:
 -----
-``
+
 possible config file changes to make life easier.
 see if i can add location in to the weather so it finds where you are if you dont fill the weather in.
-``
