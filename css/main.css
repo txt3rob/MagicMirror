@@ -35,6 +35,34 @@ body, html {
 	text-align: right;
 }
 
+.middle-wrapper
+{
+	position: absolute;
+	top: 50%;
+	height: 200px;
+	margin-top: -100px;
+	line-height: 100px;
+	right: 50px;
+	left: 50px;
+	text-align: center
+}
+
+#trains
+{
+	float: right;
+	font-size: 16px;
+	letter-spacing: 0px;
+	font-family: "HelveticaNeue-Medium";
+	line-height: 20px;
+
+}
+
+#train-icon{
+	width: 25px;
+	hight: 25px;
+}
+
+
 .center-ver
 {
 	position: absolute;

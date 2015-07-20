@@ -26,7 +26,7 @@
 	<div class="top left"><div class="date small dimmed"></div><div class="time"></div><div class="calendar xxsmall"></div></div>
 	<div class="top right"><div class="windsun small dimmed"></div><div class="temp"></div><div class="forecast small dimmed"></div></div>
 	<div class="center-ver center-hor"></div>
-	<div class="lower-third center-hor"><div class="compliment light"></div></div>
+	<div class="lower-third center-hor"><div id="trains"></div><div class="compliment light"></div></div>
 	<div class="bottom center-hor"><div class="news medium"></div></div>
 
 </div>
@@ -37,6 +37,7 @@
 <script type="text/javascript" src="js/moment-with-langs.min.js"></script>
 <script type="text/javascript" src="js/config.js"></script>
 <script type="text/javascript" src="js/rrule.js"></script>
+<script type="text/javascript" src="js/trains.js"></script>
 <script type="text/javascript" src="js/main.js?nocache=<?php echo md5(microtime()) ?>"></script>
 
 
