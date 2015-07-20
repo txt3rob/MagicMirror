@@ -73,7 +73,7 @@ jQuery(document).ready(function($) {
 		});
 		setTimeout(function() {
 			checkVersion();
-		}, 3000);
+		}, 300000);
 	})();
 
 	(function updateTime()
