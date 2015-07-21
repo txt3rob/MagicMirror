@@ -23,6 +23,7 @@ Removed unsused code for dishwasher
 Added train times from National Rail.
 No cache of page.
 Git ver check delayed by 3 mins to save pulling on device and log files.
+W3C Validation fails only due to one DIV
 ```
 
 
